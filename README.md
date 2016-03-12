@@ -1,4 +1,4 @@
-#Install eigen3 in Mac
+#Install eigen3 On Mac
 ####homebrew install eigen
 ####Files will be install in /usr/loca/include/eigen3
 ####How to run your first eigen program, assume your program is called eigen.cpp
